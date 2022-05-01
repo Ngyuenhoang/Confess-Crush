@@ -2,7 +2,7 @@ const CONFIG = {
     titleWeb: "Gửi người con trai tôi thần tượng <3",
     introTitle: 'Faker',
     introDesc: `Nhìn Đông sang Tây không bằng nhìn anh một giây`,
-    btnIntro: '^^HiHi^^',
+    btnIntro: '^^HiHiHi^^',
     title: 'Phải chăng em đã yêu anh ngay từ cái nhìn đầu tiên 🥰',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
     btnYes: 'Thích lắm <33',
